@@ -15,4 +15,4 @@ A Django-based web application for tracking personal expenses.
 4. Start the server: `python manage.py runserver`
 
 ## Usage
-Navigate to http://localhost:8000 to access the application.
+Navigate to https://expense-tracker-project-1-gx6y.onrender.com to access the application.
